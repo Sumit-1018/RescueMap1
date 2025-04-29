@@ -33,7 +33,7 @@ An Android application that helps users locate nearby emergency services (Fire, 
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/disaster-management-app.git
+   git clone https://github.com/Sumit-1018/RescueMap.git
 2. Open in Android Studio.
 
 3. Build and run on a real device or emulator.
